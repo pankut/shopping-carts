@@ -35,11 +35,6 @@ pipeline{
         }
         
     }
-<<<<<<< HEAD:Jenkinsfile
-    
-=======
-
   }
->>>>>>> 456c002d9a827223dbd63b0ec71f7678a755c6b8:Jenkinsfile-template
 }
 
