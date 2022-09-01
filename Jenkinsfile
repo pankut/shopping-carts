@@ -31,10 +31,10 @@ pipeline{
     
     post{
         always{
-            echo 'Hey this is my Shopping-Cart pipeline...'
+            echo 'Hey this is my Shopping-Cart pipeline.'
         }
         
     }
   }
-}
+
 
